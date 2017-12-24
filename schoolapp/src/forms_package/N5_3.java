@@ -234,6 +234,7 @@ public class N5_3 extends javax.swing.JPanel {
         jTextField131 = new javax.swing.JTextField();
         jTextField132 = new javax.swing.JTextField();
 
+        setBackground(new java.awt.Color(102, 255, 102));
         java.awt.GridBagLayout layout = new java.awt.GridBagLayout();
         layout.columnWeights = new double[] {1.0};
         layout.rowWeights = new double[] {0.1, 0.45, 0.45};
